@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="DELETE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>Incidentes [ Default GET ]</qualified_name>
+        <rest_endpoint>https://dev225553.service-now.com/api/now/table/incident</rest_endpoint>
+        <rest_message display_value="Incidentes">cf89d6c447628210137284d7536d4307</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-28 22:16:58</sys_created_on>
+        <sys_id>6ce9da0047628210137284d7536d43dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_update_name>sys_rest_message_fn_6ce9da0047628210137284d7536d43dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-28 22:16:58</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Credit Request">be34e39d477d4250137284d7536d4385</application>
+        <file_path/>
+        <instance_id>dbec51cedbbe4c9091232f17d49619aa</instance_id>
+        <instance_name>dev99763</instance_name>
+        <name>sys_rest_message_fn_6ce9da0047628210137284d7536d43dc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>inherit_from_parent</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>Default GET</function_name><http_method>get</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>Incidentes [ Default GET ]</qualified_name><rest_endpoint>https://dev225553.service-now.com/api/now/table/incident</rest_endpoint><rest_message display_value="Incidentes">cf89d6c447628210137284d7536d4307</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-28 22:16:58</sys_created_on><sys_id>6ce9da0047628210137284d7536d43dc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Default GET</sys_name><sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package><sys_policy/><sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope><sys_update_name>sys_rest_message_fn_6ce9da0047628210137284d7536d43dc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-28 22:16:58</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+        <payload_hash>-1818899084</payload_hash>
+        <record_name>Default GET</record_name>
+        <reverted_from/>
+        <source>7234e39d477d4250137284d7536d438a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-28 22:16:59</sys_created_on>
+        <sys_id>ace9da0047628210137284d7536d43df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fc1472f910000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-28 22:16:59</sys_updated_on>
+        <type>HTTP Method</type>
+        <update_guid>a0e9da00df6282102c4cf30a6a49a5df</update_guid>
+        <update_guid_history>a0e9da00df6282102c4cf30a6a49a5df:-1818899084</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-28 22:18:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn">sys_rest_message_fn</sys_db_object>
+        <sys_id>0341c357680f40c29dca87dfd50ffba4</sys_id>
+        <sys_metadata>6ce9da0047628210137284d7536d43dc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_scope_delete display_value="">739ac009253248f28894ac0d58223fc4</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_6ce9da0047628210137284d7536d43dc</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_6ce9da0047628210137284d7536d43dc">ace9da0047628210137284d7536d43df</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-28 22:18:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

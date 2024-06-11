@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_1325069_credit_0_credit_request_search_profile_default_spell_check_dictionary">606a688647f50650137284d7536d4357</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="credit-request Search Profile">935ae48623f506509ba7d3afd67d17b3</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 12:30:35</sys_created_on>
+        <sys_id>606a688647f50650137284d7536d4359</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1325069_credit_0_credit_request_search_profile_default_spell_check_dictionary.credit-request Search Profile</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_606a688647f50650137284d7536d4359</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 12:30:35</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

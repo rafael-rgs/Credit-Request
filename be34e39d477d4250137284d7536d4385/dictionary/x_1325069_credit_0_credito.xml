@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8b956fdd477d4250137284d7536d437d" extends="task" label="Credito" max_length="40" name="x_1325069_credit_0_credito" type="collection">
+        <element label="Agência" max_length="40" name="agencia" type="integer"/>
+        <element label="Bairro" max_length="40" name="bairro" type="string"/>
+        <element label="CEP" max_length="10" name="cep" type="integer"/>
+        <element label="Cidade" max_length="40" name="cidade" type="string"/>
+        <element label="Complemento" max_length="40" name="complemento" type="integer"/>
+        <element label="Conta Corrente" max_length="40" name="conta_corrente" type="integer"/>
+        <element label="CPF" max_length="40" name="cpf" type="integer"/>
+        <element label="Email" max_length="250" name="email" type="string"/>
+        <element label="Endereço" max_length="250" name="endereco" type="string"/>
+        <element label="Nome" max_length="32" name="nome" reference="sys_user" type="reference"/>
+        <element label="Quantidade de Parcelas" max_length="40" name="quantidade_de_parcelas" type="string"/>
+        <element label="RG" max_length="40" name="rg" type="integer"/>
+        <element choice="1" label="Sexo" max_length="40" name="sexo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Feminino" sequence="0" value="feminino"/>
+                <element inactive_on_update="false" label="Masculino" sequence="1" value="masculino"/>
+                <element inactive_on_update="false" label="Outro" sequence="2" value="outro"/>
+                <element inactive_on_update="false" label="Prefiro não informar" sequence="3" value="prefiro_n_o_informar"/>
+            </choice>
+        </element>
+        <element label="Telefone" max_length="40" name="telefone" type="integer"/>
+        <element label="UF" max_length="3" name="uf" type="string"/>
+        <element label="Valor do Crédito" max_length="40" name="valor_do_credito" type="integer"/>
+    </element>
+</database>

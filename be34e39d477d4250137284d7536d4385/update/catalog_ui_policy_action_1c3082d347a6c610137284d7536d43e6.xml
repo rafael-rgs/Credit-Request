@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Solicitação de Crédito">e45c6bd547bd4250137284d7536d43a3</catalog_item>
+        <catalog_variable>IO:f4bf231d47bd4250137284d7536d433d</catalog_variable>
+        <cleared>true</cleared>
+        <disabled>false</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-07 22:45:17</sys_created_on>
+        <sys_id>1c3082d347a6c610137284d7536d43e6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>agencia</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_1c3082d347a6c610137284d7536d43e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-07 22:46:00</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Desativar campos bancários">4e10069347a6c610137284d7536d4325</ui_policy>
+        <variable>agencia</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>RGSBank Index Page - Container 1</name>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_page display_value="rgs_index_page">b9ccfed747aac610137284d7536d430b</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 12:30:55</sys_created_on>
+        <sys_id>fe3db8e747e20a10137284d7536d4311</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RGSBank Index Page - Container 1</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_update_name>sp_container_fe3db8e747e20a10137284d7536d4311</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 12:30:55</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Credit Request">be34e39d477d4250137284d7536d4385</application>
+        <file_path/>
+        <instance_id>dbec51cedbbe4c9091232f17d49619aa</instance_id>
+        <instance_name>dev99763</instance_name>
+        <name>sp_container_fe3db8e747e20a10137284d7536d4311</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>RGSBank Index Page - Container 1</name><order>1</order><semantic_tag/><sp_page display_value="rgs_index_page">b9ccfed747aac610137284d7536d430b</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-08 12:30:55</sys_created_on><sys_id>fe3db8e747e20a10137284d7536d4311</sys_id><sys_mod_count>0</sys_mod_count><sys_name>RGSBank Index Page - Container 1</sys_name><sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package><sys_policy/><sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope><sys_update_name>sp_container_fe3db8e747e20a10137284d7536d4311</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-08 12:30:55</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>1674478129</payload_hash>
+        <record_name>RGSBank Index Page - Container 1</record_name>
+        <reverted_from/>
+        <source>7234e39d477d4250137284d7536d438a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 12:30:55</sys_created_on>
+        <sys_id>7a3db8e747e20a10137284d7536d4313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ff7d495130000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 12:30:55</sys_updated_on>
+        <type>Container</type>
+        <update_guid>be3db8e713e20a10c045db3e8c1a5912</update_guid>
+        <update_guid_history>be3db8e713e20a10c045db3e8c1a5912:1674478129</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="RGSBank Index Page - Container 1">d55d342b47e20a10137284d7536d43d0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 12:31:21</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>236e40902e2141de938cfcab988b66c4</sys_id>
+        <sys_metadata>fe3db8e747e20a10137284d7536d4311</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RGSBank Index Page - Container 1</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_scope_delete display_value="">739ac009253248f28894ac0d58223fc4</sys_scope_delete>
+        <sys_update_name>sp_container_fe3db8e747e20a10137284d7536d4311</sys_update_name>
+        <sys_update_version display_value="sp_container_fe3db8e747e20a10137284d7536d4311">7a3db8e747e20a10137284d7536d4313</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 12:31:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

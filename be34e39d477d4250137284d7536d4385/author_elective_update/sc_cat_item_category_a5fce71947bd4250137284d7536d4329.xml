@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Solicitação de Crédito">e45c6bd547bd4250137284d7536d43a3</sc_cat_item>
+        <sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 18:45:17</sys_created_on>
+        <sys_id>a5fce71947bd4250137284d7536d4329</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Services.Solicitação de Crédito</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_update_name>sc_cat_item_category_a5fce71947bd4250137284d7536d4329</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 18:45:17</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Credit Request">be34e39d477d4250137284d7536d4385</application>
+        <file_path/>
+        <instance_id>dbec51cedbbe4c9091232f17d49619aa</instance_id>
+        <instance_name>dev99763</instance_name>
+        <name>sc_cat_item_category_a5fce71947bd4250137284d7536d4329</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Solicitação de Crédito">e45c6bd547bd4250137284d7536d43a3</sc_cat_item><sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-25 18:45:17</sys_created_on><sys_id>a5fce71947bd4250137284d7536d4329</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Departmental Services.Solicitação de Crédito</sys_name><sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package><sys_policy/><sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope><sys_update_name>sc_cat_item_category_a5fce71947bd4250137284d7536d4329</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-25 18:45:17</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-2046537434</payload_hash>
+        <record_name>Departmental Services.Solicitação de Crédito</record_name>
+        <reverted_from/>
+        <source>7234e39d477d4250137284d7536d438a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 18:45:17</sys_created_on>
+        <sys_id>25fce71947bd4250137284d7536d433a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f169382bb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 18:45:17</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>edfce719f9bd42503ac8560cb929282c</update_guid>
+        <update_guid_history>edfce719f9bd42503ac8560cb929282c:-2046537434</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Departmental Services.Solicitação de Crédito">a11e2f5947bd4250137284d7536d43b0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 18:50:11</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>06aab35fd1ea460d86dea24b256fefb1</sys_id>
+        <sys_metadata>a5fce71947bd4250137284d7536d4329</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Services.Solicitação de Crédito</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_scope_delete display_value="">739ac009253248f28894ac0d58223fc4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_a5fce71947bd4250137284d7536d4329</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_a5fce71947bd4250137284d7536d4329">25fce71947bd4250137284d7536d433a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 18:50:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

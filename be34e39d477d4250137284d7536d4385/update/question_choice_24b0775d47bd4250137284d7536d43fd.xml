@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="Quantidade de Parcelas">fb307f1d47bd4250137284d7536d4352</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 19:01:35</sys_created_on>
+        <sys_id>24b0775d47bd4250137284d7536d43fd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>36</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_update_name>question_choice_24b0775d47bd4250137284d7536d43fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-07 16:59:11</sys_updated_on>
+        <text>36</text>
+        <value>36</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=24b0775d47bd4250137284d7536d43fd"/>
+</record_update>

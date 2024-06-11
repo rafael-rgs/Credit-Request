@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables>$brand-primary:#428bca;
+$body-bg:#f0f3f4;
+$state-success-text:#5cb85c;
+$sp-homepage-bg:#fff;
+$sp-navbar-divider-color:#ffffff;
+#000000$text-color:;
+$sp-logo-margin-y:.5rem;
+$navbar-inverse-link-hover-color:#81878e;
+$panel-bg:#fff;
+$brand-success:#5cb85c;
+$navbar-inverse-bg:#ffffff;
+$brand-warning:#f0ad4e;
+$brand-danger:#d9534f;
+$sp-tagline-color:#717171;
+$navbar-inverse-link-color:#428bca;
+$brand-info:#5bc0de;
+$link-color:#428bca;
+$sp-logo-margin-x:1.5rem;
+$btn-default-bg:#fff;
+#81878e#656668#a9adb1#000000$text-muted:;
+</css_variables>
+        <dark_theme/>
+        <default>false</default>
+        <enable_ais>false</enable_ais>
+        <enable_certificate_based_authentication>false</enable_certificate_based_authentication>
+        <enable_favorites>false</enable_favorites>
+        <hide_portal_name>true</hide_portal_name>
+        <homepage display_value="rgs_index_page">b9ccfed747aac610137284d7536d430b</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo>729bf4a747e20a10137284d7536d4387</logo>
+        <notfound_page/>
+        <quick_start_config/>
+        <rtl_enabled>false</rtl_enabled>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <search_application/>
+        <search_results_configuration/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="SP Header Menu">d150fd31cb10020000f8d856634c9ce6</sp_rectangle_menu>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 03:09:35</sys_created_on>
+        <sys_id>8467be5347aac610137284d7536d43a6</sys_id>
+        <sys_mod_count>62</sys_mod_count>
+        <sys_name>RGSBank</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_update_name>sp_portal_8467be5347aac610137284d7536d43a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 20:41:44</sys_updated_on>
+        <theme display_value="Stock">79315153cb33310000f8d856634c9c4b</theme>
+        <title>RGSBank</title>
+        <ts_index_group/>
+        <url_suffix>rgs</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=8467be5347aac610137284d7536d43a6"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#dfe5eb</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>logo</file_name>
+        <hash>02ff5584d45d73b69a486c75f04f649fd1b932f1d166456525f8fc9ac495634d</hash>
+        <image_height>39</image_height>
+        <image_width>197</image_width>
+        <size_bytes>2358</size_bytes>
+        <size_compressed>2381</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 12:23:49</sys_created_on>
+        <sys_id>729bf4a747e20a10137284d7536d4387</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 12:23:49</sys_updated_on>
+        <table_name>ZZ_YYsp_portal</table_name>
+        <table_sys_id>8467be5347aac610137284d7536d43a6</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="729bf4a747e20a10137284d7536d4387">729bf4a747e20a10137284d7536d4387</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 12:23:49</sys_created_on>
+        <sys_id>b29bf4a747e20a10137284d7536d4387</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3164</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="729bf4a747e20a10137284d7536d4387">729bf4a747e20a10137284d7536d4387</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 12:23:49</sys_created_on>
+        <sys_id>369bf4a747e20a10137284d7536d4387</sys_id>
+    </sys_attachment_doc>
+</record_update>

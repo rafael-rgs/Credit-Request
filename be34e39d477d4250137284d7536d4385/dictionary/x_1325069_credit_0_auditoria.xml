@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="89e2f31147fd4250137284d7536d43ea" label="Auditoria" max_length="40" name="x_1325069_credit_0_auditoria" type="collection">
+        <element label="Nome" max_length="32" name="nome" reference="sys_user" type="reference"/>
+        <element label="Quantidade de Parcelas" max_length="255" name="quantidade_de_parcelas" type="integer"/>
+        <element label="Solicitação de Crédito" max_length="40" name="solicitacao_de_credito" type="string"/>
+        <element label="Valor do Crédito" max_length="255" name="valor_do_credito" type="integer"/>
+    </element>
+</database>
