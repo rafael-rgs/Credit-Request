@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Linhas de Crédito</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1325069_credit_0_linhas_de_credito</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 19:07:26</sys_created_on>
+        <sys_id>c20273dd47bd4250137284d7536d432a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Credit 0 Linhas De Credito</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_update_name>sys_db_object_c20273dd47bd4250137284d7536d432a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 19:07:26</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Credit Request">be34e39d477d4250137284d7536d4385</application>
+        <file_path/>
+        <instance_id>dbec51cedbbe4c9091232f17d49619aa</instance_id>
+        <instance_name>dev99763</instance_name>
+        <name>sys_db_object_c20273dd47bd4250137284d7536d432a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Linhas de Crédito</label><live_feed_enabled>false</live_feed_enabled><name>x_1325069_credit_0_linhas_de_credito</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-25 19:07:26</sys_created_on><sys_id>c20273dd47bd4250137284d7536d432a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Credit 0 Linhas De Credito</sys_name><sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package><sys_policy/><sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope><sys_update_name>sys_db_object_c20273dd47bd4250137284d7536d432a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-25 19:07:26</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1932297401</payload_hash>
+        <record_name>Linhas de Crédito</record_name>
+        <reverted_from/>
+        <source>7234e39d477d4250137284d7536d438a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 19:07:26</sys_created_on>
+        <sys_id>960273dd47bd4250137284d7536d4342</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f16a7cd760000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 19:07:26</sys_updated_on>
+        <type>Table</type>
+        <update_guid>1e0273dd83bd4250dc52a56a691a0b41</update_guid>
+        <update_guid_history>1e0273dd83bd4250dc52a56a691a0b41:1932297401</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 19:10:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>02a585699aeb43ec942b70fd562b6704</sys_id>
+        <sys_metadata>c20273dd47bd4250137284d7536d432a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Credit 0 Linhas De Credito</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_scope_delete display_value="">739ac009253248f28894ac0d58223fc4</sys_scope_delete>
+        <sys_update_name>sys_db_object_c20273dd47bd4250137284d7536d432a</sys_update_name>
+        <sys_update_version display_value="sys_db_object_c20273dd47bd4250137284d7536d432a">960273dd47bd4250137284d7536d4342</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 19:10:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Solicitação de Crédito">e45c6bd547bd4250137284d7536d43a3</catalog_item>
+        <catalog_variable>IO:caa97cdb4722c610137284d7536d4369</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-07 22:29:37</sys_created_on>
+        <sys_id>3cac795f4766c610137284d7536d4376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bradesco</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_3cac795f4766c610137284d7536d4376</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-07 22:29:37</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Mostrar banner Bradesco">743c351f4766c610137284d7536d43c8</ui_policy>
+        <variable>bradesco</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Solicitação de Crédito">e45c6bd547bd4250137284d7536d43a3</catalog_item>
+        <catalog_variable>IO:caa97cdb4722c610137284d7536d4369</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-07 18:25:35</sys_created_on>
+        <sys_id>1e9489df4762c610137284d7536d4398</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>bradesco</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_1e9489df4762c610137284d7536d4398</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-07 18:29:36</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Mostra banner do banco selecionado">746bb4174762c610137284d7536d435b</ui_policy>
+        <variable>bradesco</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Credit Request">be34e39d477d4250137284d7536d4385</application>
+        <file_path/>
+        <instance_id>dbec51cedbbe4c9091232f17d49619aa</instance_id>
+        <instance_name>dev99763</instance_name>
+        <name>catalog_ui_policy_action_1e9489df4762c610137284d7536d4398</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Solicitação de Crédito">e45c6bd547bd4250137284d7536d43a3</catalog_item><catalog_variable>IO:caa97cdb4722c610137284d7536d4369</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-07 18:25:35</sys_created_on><sys_id>1e9489df4762c610137284d7536d4398</sys_id><sys_mod_count>1</sys_mod_count><sys_name>bradesco</sys_name><sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package><sys_policy/><sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope><sys_update_name>catalog_ui_policy_action_1e9489df4762c610137284d7536d4398</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-07 18:29:36</sys_updated_on><table/><ui_policy display_value="Mostra banner do banco selecionado">746bb4174762c610137284d7536d435b</ui_policy><variable>bradesco</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1509300826</payload_hash>
+        <record_name>bradesco</record_name>
+        <reverted_from/>
+        <source>7234e39d477d4250137284d7536d438a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-07 18:29:37</sys_created_on>
+        <sys_id>afb5c15347a2c610137284d7536d433c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ff3f69ebd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-07 18:29:37</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>a7b5c15361a2c610fd893db16bbfac3c</update_guid>
+        <update_guid_history>a7b5c15361a2c610fd893db16bbfac3c:-1509300826,28d48ddf8362c610a374853780d8b1ba:99237337</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="bradesco">5ad5455347a2c610137284d7536d43ae</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-07 18:30:04</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>4494d616c2ed47ff9b1fcb226f7ee3c9</sys_id>
+        <sys_metadata>1e9489df4762c610137284d7536d4398</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bradesco</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_scope_delete display_value="">739ac009253248f28894ac0d58223fc4</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_1e9489df4762c610137284d7536d4398</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_1e9489df4762c610137284d7536d4398">afb5c15347a2c610137284d7536d433c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-07 18:30:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

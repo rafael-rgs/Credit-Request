@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1325069_credit_0_linhas_de_credito</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 19:07:29</sys_created_on>
+        <sys_id>cb0273dd47bd4250137284d7536d43da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1325069_credit_0_linhas_de_credito</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_update_name>sys_security_acl_cb0273dd47bd4250137284d7536d43da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 19:07:29</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Credit Request">be34e39d477d4250137284d7536d4385</application>
+        <file_path/>
+        <instance_id>dbec51cedbbe4c9091232f17d49619aa</instance_id>
+        <instance_name>dev99763</instance_name>
+        <name>sys_security_acl_cb0273dd47bd4250137284d7536d43da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><local_or_existing>Local</local_or_existing><name>x_1325069_credit_0_linhas_de_credito</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-25 19:07:29</sys_created_on><sys_id>cb0273dd47bd4250137284d7536d43da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1325069_credit_0_linhas_de_credito</sys_name><sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package><sys_policy/><sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope><sys_update_name>sys_security_acl_cb0273dd47bd4250137284d7536d43da</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-25 19:07:29</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-177529067</payload_hash>
+        <record_name>x_1325069_credit_0_linhas_de_credito</record_name>
+        <reverted_from/>
+        <source>7234e39d477d4250137284d7536d438a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 19:07:29</sys_created_on>
+        <sys_id>030273dd47bd4250137284d7536d43dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f16a7d8aa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 19:07:29</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>470273dd7cbd42502313c73f08e1dddc</update_guid>
+        <update_guid_history>470273dd7cbd42502313c73f08e1dddc:-177529067</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 19:10:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>002e1588e4254cec8057de8fc00a3904</sys_id>
+        <sys_metadata>cb0273dd47bd4250137284d7536d43da</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1325069_credit_0_linhas_de_credito</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_parent display_value="">8a0273dd47bd4250137284d7536d432b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_scope_delete display_value="">739ac009253248f28894ac0d58223fc4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_cb0273dd47bd4250137284d7536d43da</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_cb0273dd47bd4250137284d7536d43da">030273dd47bd4250137284d7536d43dd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 19:10:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

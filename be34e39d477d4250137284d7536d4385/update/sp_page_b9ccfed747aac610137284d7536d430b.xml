@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <human_readable_url_structure/>
+        <id>rgs_index_page</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 03:11:27</sys_created_on>
+        <sys_id>b9ccfed747aac610137284d7536d430b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>rgs_index_page</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_update_name>sp_page_b9ccfed747aac610137284d7536d430b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 03:11:27</sys_updated_on>
+        <title>RGSBank Index Page</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=b9ccfed747aac610137284d7536d430b"/>
+</record_update>

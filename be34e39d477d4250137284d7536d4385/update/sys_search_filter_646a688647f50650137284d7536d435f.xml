@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Tasks - Incidents">13bf8fe1531201107f03ddeeff7b1274</ais_search_source>
+        <label>Incident</label>
+        <name>Tasks - Incidents</name>
+        <order>100</order>
+        <search_context_config display_value="Credit Request AI Search Configuration">5b5ae486c8f50650040f6a4eb7a835a9</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 12:30:35</sys_created_on>
+        <sys_id>646a688647f50650137284d7536d435f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tasks - Incidents</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_update_name>sys_search_filter_646a688647f50650137284d7536d435f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 12:30:35</sys_updated_on>
+    </sys_search_filter>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Solicitação de Crédito">e45c6bd547bd4250137284d7536d43a3</catalog_item>
+        <catalog_variable>IO:f4bf231d47bd4250137284d7536d433d</catalog_variable>
+        <cleared>true</cleared>
+        <disabled>false</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-07 22:33:43</sys_created_on>
+        <sys_id>d38d79df4766c610137284d7536d4351</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>agencia</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_d38d79df4766c610137284d7536d4351</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-07 22:40:40</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Ativar campos bancários">e87db5df4766c610137284d7536d4386</ui_policy>
+        <variable>agencia</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

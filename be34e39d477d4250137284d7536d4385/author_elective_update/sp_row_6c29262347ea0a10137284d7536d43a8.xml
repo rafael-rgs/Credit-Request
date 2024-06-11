@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_column/>
+        <sp_container display_value="RGSBank Index Page - Container 4">1b196eef47aa0a10137284d7536d4366</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 20:22:20</sys_created_on>
+        <sys_id>6c29262347ea0a10137284d7536d43a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_update_name>sp_row_6c29262347ea0a10137284d7536d43a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 20:22:20</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Credit Request">be34e39d477d4250137284d7536d4385</application>
+        <file_path/>
+        <instance_id>dbec51cedbbe4c9091232f17d49619aa</instance_id>
+        <instance_name>dev99763</instance_name>
+        <name>sp_row_6c29262347ea0a10137284d7536d43a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><semantic_tag/><sp_column/><sp_container display_value="RGSBank Index Page - Container 4">1b196eef47aa0a10137284d7536d4366</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-08 20:22:20</sys_created_on><sys_id>6c29262347ea0a10137284d7536d43a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package><sys_policy/><sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope><sys_update_name>sp_row_6c29262347ea0a10137284d7536d43a8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-08 20:22:20</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>-1754981660</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>7234e39d477d4250137284d7536d438a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 20:22:20</sys_created_on>
+        <sys_id>ac29262347ea0a10137284d7536d43aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ff9842eba0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 20:22:20</sys_updated_on>
+        <type>Row</type>
+        <update_guid>e0292623ebea0a10c3e73bc03562c5aa</update_guid>
+        <update_guid_history>e0292623ebea0a10c3e73bc03562c5aa:-1754981660</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">bed9a26347ea0a10137284d7536d43b4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 20:25:30</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>afdf6cd8839c462895d4180033280f04</sys_id>
+        <sys_metadata>6c29262347ea0a10137284d7536d43a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_scope_delete display_value="">739ac009253248f28894ac0d58223fc4</sys_scope_delete>
+        <sys_update_name>sp_row_6c29262347ea0a10137284d7536d43a8</sys_update_name>
+        <sys_update_version display_value="sp_row_6c29262347ea0a10137284d7536d43a8">ac29262347ea0a10137284d7536d43aa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 20:25:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <search_context_config display_value="Credit Management - Workspace Search">44d5ab5ab8b58650203afe3d24085c26</search_context_config>
+        <source display_value="Credit Management - x_1325069_credit_0_auditoria">59d5eb5a47b58650137284d7536d43e9</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 20:48:03</sys_created_on>
+        <sys_id>99d5eb5a47b58650137284d7536d43eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_99d5eb5a47b58650137284d7536d43eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 20:48:03</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

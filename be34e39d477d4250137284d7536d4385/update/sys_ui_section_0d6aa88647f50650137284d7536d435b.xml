@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Resolution Information" section_id="0d6aa88647f50650137284d7536d435b" sys_domain="global" table="incident" version="3" view="workspace-credit-request-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>knowledge</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 12:30:38</sys_created_on>
+            <sys_id>cd6aa88647f50650137284d7536d435e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">0d6aa88647f50650137284d7536d435b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 12:30:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>close_code</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 12:30:38</sys_created_on>
+            <sys_id>c56aa88647f50650137284d7536d435d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">0d6aa88647f50650137284d7536d435b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 12:30:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 12:30:38</sys_created_on>
+            <sys_id>c16aa88647f50650137284d7536d435e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">0d6aa88647f50650137284d7536d435b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 12:30:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resolved_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 12:30:38</sys_created_on>
+            <sys_id>c96aa88647f50650137284d7536d435d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">0d6aa88647f50650137284d7536d435b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 12:30:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resolved_at</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 12:30:38</sys_created_on>
+            <sys_id>c56aa88647f50650137284d7536d435e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">0d6aa88647f50650137284d7536d435b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 12:30:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 12:30:38</sys_created_on>
+            <sys_id>cd6aa88647f50650137284d7536d435d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">0d6aa88647f50650137284d7536d435b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 12:30:38</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>close_notes</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 12:30:38</sys_created_on>
+            <sys_id>c96aa88647f50650137284d7536d435e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">0d6aa88647f50650137284d7536d435b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 12:30:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Resolution Information</caption>
+            <header>false</header>
+            <name>incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 12:30:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d6aa88647f50650137284d7536d435b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+            <sys_update_name>sys_ui_section_0d6aa88647f50650137284d7536d435b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 12:30:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Credit Request 0" name="workspace-credit-request-0">d35ae486fef506501440e4695662fca9</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

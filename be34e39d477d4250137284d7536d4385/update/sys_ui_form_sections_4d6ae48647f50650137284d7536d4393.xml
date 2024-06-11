@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="4d6ae48647f50650137284d7536d4393" sys_domain="global" table="incident" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 12:30:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>816aa88647f50650137284d7536d4313</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="incident" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">4d6ae48647f50650137284d7536d4393</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">cd6aa88647f50650137284d7536d4311</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 12:30:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 12:30:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>456aa88647f50650137284d7536d431b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="incident" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">4d6ae48647f50650137284d7536d4393</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">856aa88647f50650137284d7536d431a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 12:30:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 12:30:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>056aa88647f50650137284d7536d4348</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="incident" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">4d6ae48647f50650137284d7536d4393</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">456aa88647f50650137284d7536d4347</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 12:30:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 12:30:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>856aa88647f50650137284d7536d434c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="incident" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">4d6ae48647f50650137284d7536d4393</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">c56aa88647f50650137284d7536d434b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 12:30:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 12:30:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c96aa88647f50650137284d7536d435c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="incident" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">4d6ae48647f50650137284d7536d4393</sys_ui_form>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="incident" sys_domain="global" view="d35ae486fef506501440e4695662fca9">0d6aa88647f50650137284d7536d435b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 12:30:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 12:30:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d6ae48647f50650137284d7536d4393</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Credit Request" source="x_1325069_credit_0">be34e39d477d4250137284d7536d4385</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Credit Request">be34e39d477d4250137284d7536d4385</sys_scope>
+            <sys_update_name>sys_ui_form_sections_4d6ae48647f50650137284d7536d4393</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 12:30:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Credit Request 0" name="workspace-credit-request-0">d35ae486fef506501440e4695662fca9</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
